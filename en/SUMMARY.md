@@ -136,7 +136,6 @@
     * [Release process](contributing/release.md)
   * [Troubleshooting](cpp/troubleshooting.md)
 * [Autogeneration](autogen/README.md)
-    * [Mechanisms](autogen/mechanisms.md)
 * [Releases](releases/README.md)
 
 ## Dronecode Shortcuts
